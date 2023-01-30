@@ -1,0 +1,10 @@
+Source IP: <Source IP 1>
+Source IP: <Source IP 2>
+Source IP: <Source IP 3>
+Source IP: <Source IP 4>
+Remote IP: <Remote IP 1>
+Remote IP: <Remote IP 2>
+Remote IP: <Remote IP 3>
+Remote IP: <Remote IP 4>
+Start Port: <Start Port>
+End Port: <End Port>
